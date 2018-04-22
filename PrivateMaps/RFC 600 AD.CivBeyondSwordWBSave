@@ -34383,6 +34383,7 @@ BeginPlot
 		CityOwner=17, (Turks)
 		CityName=Orduqent
 		CityPopulation=2
+		BuildingType=BUILDING_PALACE
 		BuildingType=BUILDING_GRANARY
 		Player17Culture=10, (Turks)
 	EndCity
